@@ -92,6 +92,8 @@ WebhookBot bot = new WebhookBot();
 (2: No such file or directory), client: 149.154.167.227, server: example.net request: "POST >/callback/WebhookClass HTTP/1.1",
 host: "mydomain.net"
 
+Приложение я собираю в jar with dependencies и запускаю на сервере ubuntu 16.04 командой java -jar
+
 
 
 
