@@ -42,7 +42,7 @@ try
             "src/main/resources/myDomain.net.jks",
             "myPassword",
             "https://myDomain.net:443",
-            "https://217.0.0.1:443");
+            "https://127.0.0.1:443");
 } catch (TelegramApiRequestException e)
 {
     BotLogger.error(LOGTAG,e);
